@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+C:\Users\odirl\OneDrive\Documentos\hibernate-loja3\.metadata\.plugins\org.eclipse.jdt.core
+1324334204.index
+2292760823.index
+3849322281.index
+3501714628.index
+2950468670.index
+1127560234.index
+48680636.index
+1234377757.index
+4019702857.index
+2375676264.index
+73488663.index
+938619560.index
+1451230393.index
+2708241221.index
+767496049.index
+1940938101.index
+178613038.index
+1865797976.index
+2805584449.index
+1902409315.index
+2186898670.index
